@@ -25,7 +25,6 @@ The dataset includes 20 columns with detailed ride information:
 - **Ride_Distance** 📏: Distance traveled
 - **Driver_Ratings** ⭐: Ratings given to the driver
 - **Customer_Rating** ⭐: Ratings given by the driver
-- **Vehicle_Images** 🖼️: Visuals of the vehicle
 
 ## 📊 Dashboard Highlights
 
