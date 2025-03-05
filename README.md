@@ -1,6 +1,7 @@
-# 🚗 Ola-InsightHub
+# 🚗 Ola Rides PowerBI Dashboard
 
-Ola-InsightHub is an interactive Power BI dashboard designed to analyze and visualize Ola's ride data. This project offers a comprehensive breakdown of ride trends, revenue insights, and customer-driver interactions — all presented in a clear and engaging format. 📊✨
+📊 Overview:
+This project is an interactive PowerBI dashboard built to analyze and visualize OLA ride data. The dataset consists of 103,025 rows and captures detailed information about ride bookings, cancellations, vehicle types, ratings, and revenue.. 📊✨
 
 ## 📂 Dataset Overview
 
